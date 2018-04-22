@@ -5,7 +5,7 @@
 ******************************************************
 Normally UART communication is a -char communication.
 This Repo contains UATR Transmit and Receive files for
-atmega2560 which can easily be modified for other mic-
--rocontroller, just by changing the respective regist-
--er name.
+atmega2560 which can easily be modified for other micr
+ocontroller, just by changing the respective register 
+name.
 ******************************************************
